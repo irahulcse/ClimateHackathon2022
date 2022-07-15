@@ -1,7 +1,7 @@
 # Promotion of Low wastage food
 
-1. Low emission Food
-2. Reduce wastage Food
+1. Low Food Emission 
+2. Reduce Food Wastage 
 
 # Rough Ideas:
 
@@ -23,7 +23,7 @@ Until 2'o clock we need to upload the presentation.
 
 Survey is also prepared and the one with the most votes will be going to get the prize.
 
-# Results are decieded:
+# Results are decided:
 
 You will be going to required 100 points
 
@@ -33,6 +33,6 @@ You will be going to required 100 points
 # We will be going to own the solution.
 
 
-references -
+References -
 
 https://www.iamexpat.de/lifestyle/lifestyle-news/3-apps-tackle-food-waste-germany 
