@@ -36,3 +36,4 @@ You will be going to required 100 points
 References -
 
 https://www.iamexpat.de/lifestyle/lifestyle-news/3-apps-tackle-food-waste-germany 
+https://ilias3.uni-stuttgart.de/goto_Uni_Stuttgart_fold_3013625.html
