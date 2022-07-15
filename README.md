@@ -31,3 +31,8 @@ You will be going to required 100 points
    on the scale of 1-10 1. Saving co2 emission 2. Resource wastage 3. another criteria with the presentation itself ()
 
 # We will be going to own the solution.
+
+
+references -
+
+https://www.iamexpat.de/lifestyle/lifestyle-news/3-apps-tackle-food-waste-germany 
