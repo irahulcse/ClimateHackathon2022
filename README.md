@@ -1,6 +1,9 @@
 # The two klima(HACKATHON) - Challenges are:
+[klima(HACKATHON)](https://www.ivs.uni-stuttgart.de/klimahackathon/)
+
 ## I: Climate neutral CampUS
 ## II: Engagement of the stakeholders at the CampUS
+<br>
 
 # Topic 6: Food Sharing Platform For Low-Emission Food Service
 
