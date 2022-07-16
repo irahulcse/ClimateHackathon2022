@@ -9,6 +9,8 @@ Developing a holistic approach to promote -
 1. Low Food Emission 
 2. Reduce Food Wastage 
 
+__What contribution can we make as CampUS?__
+
 ## DESIGN:
 Designing a social media campaign to promote low-emission 
 food service and / or reduce food waste.
