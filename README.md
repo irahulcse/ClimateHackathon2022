@@ -4,7 +4,7 @@
 ## II: Engagement of the stakeholders at the CampUS
 <br>
 
-# Topic 6: Food Sharing Platform For Low-Emission Food Service
+# Topic : Food Sharing Platform For Low-Emission Food Service
 
 ## CONCEPTUALISATION
 Developing a holistic approach to promote -
