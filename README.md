@@ -1,5 +1,4 @@
-# The two klima(HACKATHON) - Challenges are:
-[klima(HACKATHON)](https://www.ivs.uni-stuttgart.de/klimahackathon/)
+# The two [klima(HACKATHON)](https://www.ivs.uni-stuttgart.de/klimahackathon/) - Challenges are:
 
 ## I: Climate neutral CampUS
 ## II: Engagement of the stakeholders at the CampUS
